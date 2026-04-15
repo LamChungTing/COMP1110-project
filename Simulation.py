@@ -59,18 +59,6 @@ def open_resturant_data(file_path):
                 data = line.strip().split(',')
                 resturant_tables[data[0]] = data[1] 
     
-
-
-
-customers = open_customer_data("queue.txt")
-
-
-
-
-
-
-<<<<<<< HEAD
-
 customers = open_customer_data("queue.txt")
 tables = open_resturant_data("tables.txt")
 
@@ -192,5 +180,4 @@ with open("output.txt", 'w') as file:
     file.write(f"Longest wait time: {longest_wait_time}\n") 
     file.write(f"\n=== SIMULATION LOGS ===\n")
     file.write(logs)  
-=======
->>>>>>> 886d102f466b37b06a70ad711acb2a41b86ff24d
+
