@@ -1,0 +1,50 @@
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
+Avg wait time: 0
+Max queue length: 0
+Table utilization: 0
+Longest wait time: 0
+Logs: 
