@@ -1,50 +1,80 @@
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
+Avg wait time: 0.00
+Max queue length: 2
+Table utilization: 4.29%
 Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
-Avg wait time: 0
-Max queue length: 0
-Table utilization: 0
-Longest wait time: 0
-Logs: 
+
+=== SIMULATION LOGS ===
+Time 660: Party of 5 arrived. Queue: 1
+Time 660: Party of 5 seated at large table. Wait: 0 min. Dining: 45 min
+Time 670: Party of 4 arrived. Queue: 1
+Time 670: Party of 4 seated at medium table. Wait: 0 min. Dining: 50 min
+Time 680: Party of 3 arrived. Queue: 1
+Time 680: Party of 3 seated at medium table. Wait: 0 min. Dining: 35 min
+Time 690: Party of 4 arrived. Queue: 1
+Time 690: Party of 4 seated at medium table. Wait: 0 min. Dining: 35 min
+Time 700: Party of 1 arrived. Queue: 1
+Time 700: Party of 1 seated at small table. Wait: 0 min. Dining: 25 min
+Time 705: Table (large) became available
+Time 710: Party of 2 arrived. Queue: 1
+Time 710: Party of 3 arrived. Queue: 2
+Time 710: Party of 2 seated at small table. Wait: 0 min. Dining: 30 min
+Time 710: Party of 3 seated at medium table. Wait: 0 min. Dining: 45 min
+Time 715: Table (medium) became available
+Time 720: Table (medium) became available
+Time 720: Party of 2 arrived. Queue: 1
+Time 720: Party of 2 arrived. Queue: 2
+Time 720: Party of 2 seated at small table. Wait: 0 min. Dining: 45 min
+Time 720: Party of 2 seated at small table. Wait: 0 min. Dining: 45 min
+Time 725: Table (small) became available
+Time 725: Table (medium) became available
+Time 730: Party of 3 arrived. Queue: 1
+Time 730: Party of 3 arrived. Queue: 2
+Time 730: Party of 3 seated at medium table. Wait: 0 min. Dining: 40 min
+Time 730: Party of 3 seated at medium table. Wait: 0 min. Dining: 50 min
+Time 740: Table (small) became available
+Time 740: Party of 2 arrived. Queue: 1
+Time 740: Party of 2 arrived. Queue: 2
+Time 740: Party of 2 seated at small table. Wait: 0 min. Dining: 50 min
+Time 740: Party of 2 seated at small table. Wait: 0 min. Dining: 30 min
+Time 750: Party of 3 arrived. Queue: 1
+Time 750: Party of 1 arrived. Queue: 2
+Time 750: Party of 3 seated at medium table. Wait: 0 min. Dining: 60 min
+Time 750: Party of 1 seated at small table. Wait: 0 min. Dining: 20 min
+Time 755: Table (medium) became available
+Time 760: Party of 3 arrived. Queue: 1
+Time 760: Party of 1 arrived. Queue: 2
+Time 760: Party of 3 seated at medium table. Wait: 0 min. Dining: 55 min
+Time 760: Party of 1 seated at small table. Wait: 0 min. Dining: 35 min
+Time 765: Table (small) became available
+Time 765: Table (small) became available
+Time 770: Table (small) became available
+Time 770: Table (small) became available
+Time 770: Table (medium) became available
+Time 770: Party of 3 arrived. Queue: 1
+Time 770: Party of 3 seated at medium table. Wait: 0 min. Dining: 40 min
+Time 780: Table (medium) became available
+Time 780: Party of 2 arrived. Queue: 1
+Time 780: Party of 2 arrived. Queue: 2
+Time 780: Party of 2 seated at small table. Wait: 0 min. Dining: 30 min
+Time 780: Party of 2 seated at small table. Wait: 0 min. Dining: 60 min
+Time 790: Table (small) became available
+Time 790: Party of 1 arrived. Queue: 1
+Time 790: Party of 1 seated at small table. Wait: 0 min. Dining: 25 min
+Time 795: Table (small) became available
+Time 810: Table (small) became available
+Time 810: Table (medium) became available
+Time 810: Table (medium) became available
+Time 810: Party of 2 arrived. Queue: 1
+Time 810: Party of 2 seated at small table. Wait: 0 min. Dining: 55 min
+Time 815: Table (small) became available
+Time 815: Table (medium) became available
+Time 840: Table (small) became available
+Time 840: Party of 2 arrived. Queue: 1
+Time 840: Party of 2 seated at small table. Wait: 0 min. Dining: 40 min
+Time 865: Table (small) became available
+Time 870: Party of 1 arrived. Queue: 1
+Time 870: Party of 1 seated at small table. Wait: 0 min. Dining: 25 min
+Time 880: Table (small) became available
+Time 895: Table (small) became available
+Time 900: Party of 6 arrived. Queue: 1
+Time 900: Party of 6 seated at large table. Wait: 0 min. Dining: 35 min
