@@ -50,14 +50,6 @@ def open_resturant_data(file_path):
     except FileNotFoundError:
         print(f"Error: The file '{file_path}' was not found.")
         return []
-
-def open_resturant_data(file_path):
-    dict(resturnat_tables)
-    try:
-        with open(file_path, 'r') as file:
-            for line in file:
-                data = line.strip().split(',')
-                resturant_tables[data[0]] = data[1] 
     
 customers = open_customer_data("queue.txt")
 tables = open_resturant_data("tables.txt")
