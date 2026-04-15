@@ -24,10 +24,10 @@ def open_customer_data(file_path):
                 # validation
                 if len(data) == 4:
                     new_customer = Customer(
-                        party_size=data[0],
-                        arrival_time=data[1],
-                        dining_time=data[2],
-                        max_waiting_time=data[3]
+                        party_size = data[0],
+                        arrival_time = data[1],
+                        dining_time = data[2],
+                        max_waiting_time = data[3]
                     )
                     customer_array.append(new_customer)
                     
@@ -51,7 +51,25 @@ def open_resturant_data(file_path):
         print(f"Error: The file '{file_path}' was not found.")
         return []
 
+def open_resturant_data(file_path):
+    dict(resturnat_tables)
+    try:
+        with open(file_path, 'r') as file:
+            for line in file:
+                data = line.strip().split(',')
+                resturant_tables[data[0]] = data[1] 
+    
 
+
+
+customers = open_customer_data("queue.txt")
+
+
+
+
+
+
+<<<<<<< HEAD
 
 customers = open_customer_data("queue.txt")
 tables = open_resturant_data("tables.txt")
@@ -174,3 +192,5 @@ with open("output.txt", 'w') as file:
     file.write(f"Longest wait time: {longest_wait_time}\n") 
     file.write(f"\n=== SIMULATION LOGS ===\n")
     file.write(logs)  
+=======
+>>>>>>> 886d102f466b37b06a70ad711acb2a41b86ff24d
