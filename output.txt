@@ -1,34 +1,29 @@
-Average wait time: 0.00 minutes
-Maximum queue length: 6 parties
-Table utilization: 6.17%
-Longest wait time: 0 minutes
+Average wait time: 4.50 minutes
+Maximum queue length: 2 parties
+Table utilization: 50.27%
+Longest wait time: 17 minutes
 
 === SIMULATION LOGS ===
-Time 720: Party of 2 arrived. Queue: 1
-Time 720: Party of 2 seated at small table. Wait: 0 min. Dining: 45 min
-Time 721: Party of 2 arrived. Queue: 1
-Time 721: Party of 2 seated at small table. Wait: 0 min. Dining: 45 min
-Time 722: Party of 3 arrived. Queue: 1
-Time 722: Party of 3 seated at medium table. Wait: 0 min. Dining: 50 min
-Time 723: Party of 2 arrived. Queue: 1
-Time 723: Party of 2 seated at small table. Wait: 0 min. Dining: 40 min
-Time 724: Party of 4 arrived. Queue: 1
-Time 724: Party of 4 seated at medium table. Wait: 0 min. Dining: 60 min
-Time 725: Party of 2 arrived. Queue: 1
-Time 725: Party of 2 seated at large table. Wait: 0 min. Dining: 45 min
-Time 726: Party of 3 arrived. Queue: 1
-Time 727: Party of 2 arrived. Queue: 2
-Time 728: Party of 4 arrived. Queue: 3
-Time 729: Party of 2 arrived. Queue: 4
-Time 730: Party of 2 arrived. Queue: 5
-Time 731: Party of 3 arrived. Queue: 6
-Time 763: Table (small) became available
-Time 765: Table (small) became available
-Time 766: Table (small) became available
-Time 770: Table (large) became available
-Time 770: Party of 3 ABANDONED (waited 44 min, max was 30 min)
-Time 770: Party of 2 ABANDONED (waited 43 min, max was 30 min)
-Time 770: Party of 4 ABANDONED (waited 42 min, max was 30 min)
-Time 770: Party of 2 ABANDONED (waited 41 min, max was 30 min)
-Time 770: Party of 2 ABANDONED (waited 40 min, max was 30 min)
-Time 770: Party of 3 ABANDONED (waited 39 min, max was 30 min)
+Time 12:00: Party of 2 arrived. Queue size: 1
+Time 12:00: Party of 2 seated at small. Wait: 0 min
+Time 12:05: Party of 2 arrived. Queue size: 1
+Time 12:05: Party of 2 seated at small. Wait: 0 min
+Time 12:10: Party of 4 arrived. Queue size: 1
+Time 12:10: Party of 4 seated at medium. Wait: 0 min
+Time 12:12: Party of 2 arrived. Queue size: 1
+Time 12:12: Party of 2 seated at large. Wait: 0 min
+Time 12:15: Party of 10 arrived. Queue size: 1
+Time 12:20: Party of 2 arrived. Queue size: 2
+Time 12:30: Table (small) became available
+Time 12:30: Party of 2 ABANDONED! (Waited 10 min)
+Time 12:32: Table (large) became available
+Time 12:32: Party of 10 seated at large. Wait: 17 min
+Time 12:35: Table (small) became available
+Time 12:55: Table (medium) became available
+Time 13:32: Table (large) became available
+
+=== STATISTICS ===
+Served customers: 5
+Abandoned customers: 1
+Total customers processed: 6
+Total simulation time: 92 minutes (01:32)
