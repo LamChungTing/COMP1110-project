@@ -4,16 +4,16 @@ Table utilization: 50.27%
 Longest wait time: 17 minutes
 
 === SIMULATION LOGS ===
-Time 12:00: Party of 2 arrived. Queue sizes: S:1 M:0 L:0
+Time 12:00: Party of 2 (VIP) arrived. Queue sizes: S:1 M:0 L:0
 Time 12:00: Party of 2 seated at small. Wait: 0 min
 Time 12:05: Party of 2 arrived. Queue sizes: S:1 M:0 L:0
 Time 12:05: Party of 2 seated at small. Wait: 0 min
 Time 12:10: Party of 4 arrived. Queue sizes: S:0 M:1 L:0
 Time 12:10: Party of 4 seated at medium. Wait: 0 min
-Time 12:12: Party of 2 arrived. Queue sizes: S:1 M:0 L:0
+Time 12:12: Party of 2 (VIP) arrived. Queue sizes: S:1 M:0 L:0
 Time 12:12: Party of 2 seated at large. Wait: 0 min
-Time 12:15: Party of 10 arrived. Queue sizes: S:0 M:0 L:1
-Time 12:20: Party of 2 arrived. Queue sizes: S:1 M:0 L:1
+Time 12:15: Party of 10 (VIP) arrived. Queue sizes: S:0 M:0 L:1
+Time 12:20: Party of 2 (VIP) arrived. Queue sizes: S:1 M:0 L:1
 Time 12:30: Table (small) became available
 Time 12:30: Party of 2 ABANDONED! (Waited 10 min)
 Time 12:32: Table (large) became available
