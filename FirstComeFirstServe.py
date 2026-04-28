@@ -174,14 +174,11 @@ restaurant_tables = OpenRestaurantData("tables.txt")
 (avg_wait, max_q, util, longest_info, logs) = RunSimpleSimulation(customers, restaurant_tables)
 
 with open("output.txt", 'w') as f:
-    # Formatting stats in the header as well
     f.write(f"Average wait time: {avg_wait:.2f} minutes\n")
     f.write(f"Maximum queue length: {max_q} parties\n")
     f.write(f"Table utilization: {util:.2f}%\n")
     f.write(f"Longest wait time: {longest_info} minutes\n")
-    # Clarifying the total time here too
-    # f.write(f"Total simulation time: {int(64 // 60)}h {int(64 % 60)}m\n") # Optional addition
     f.write(f"\n=== SIMULATION LOGS ===\n")
     f.write(logs)
 
-print("Simulation complete! The logs now show the full timeline until 13:04.")
+print("Simulation complete! Output written to output.txt")
